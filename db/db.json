@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Elio",
+      "lastName": "Mehmeti",
+      "username": "Elio95",
+      "password": "Elio123",
+      "phoneNumber": "07943255676",
+      "email": "elio@gmail.com"
+    },
+    {
+      "id": 2,
+      "firstName": "Anas",
+      "lastName": "Ansari",
+      "username": "Anas",
+      "password": "Anas123",
+      "phoneNumber": "07943255645",
+      "email": "anas@gmail.com"
+    },
+    {
+      "firstName": "Cath",
+      "lastName": "Catherine",
+      "username": "Cath123",
+      "password": "Cath123",
+      "phoneNumber": "0604560406",
+      "email": "cath@yahoo.com",
+      "id": 3
+    },
+    {
+      "firstName": "Nico",
+      "lastName": "Nico",
+      "username": "Nico",
+      "password": "Nico123",
+      "phoneNumber": "49194129",
+      "email": "nico@gmail.com",
+      "id": 4
+    },
+    {
+      "firstName": "Elio",
+      "lastName": "Mehmeti",
+      "username": "Elio123",
+      "password": "Elio123",
+      "phoneNumber": "07384372238",
+      "email": "mehmetielio95@gmail.com",
+      "id": 5
+    }
+  ]
+}

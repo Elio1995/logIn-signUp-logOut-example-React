@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+/* .wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} */
+
+.wrapper {
+  display: grid;
+  position: relative;
+  grid-template-columns: 250px 2fr;
+  max-width: 1440px;
+  margin: 12rem 35rem;
+  z-index: 10;
+}
