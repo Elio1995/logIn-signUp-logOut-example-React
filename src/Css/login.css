@@ -5,12 +5,6 @@
   font-family: sans-serif;
 }
 
-/* .wrapper {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-} */
-
 .wrapper {
   display: grid;
   position: relative;
@@ -18,4 +12,23 @@
   max-width: 1440px;
   margin: 12rem 35rem;
   z-index: 10;
+}
+
+.login-form {
+  color: rgb(25, 119, 88);
+}
+
+.login-form input {
+  background-color: rgb(222, 235, 231);
+  margin: 5px;
+}
+
+.login-form button {
+  color: rgb(25, 119, 88);
+  border-radius: 5px;
+  box-shadow: 1px 1px 1px 1px;
+}
+
+.sign-up-link {
+  color: rgb(25, 119, 88);
 }

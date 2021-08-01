@@ -50,9 +50,11 @@ function Login({ users, setloggedinUser }) {
         </div>
         <div className="sign-up">
           <h3 className="dont-have-title">Don't have an account?</h3>
-          <Link className="sign-up-link" to="/signUp">
-            Sign up
-          </Link>
+          <button className="sign-btn">
+            <Link className="sign-up-link" to="/signUp">
+              <p>Sign up</p>
+            </Link>
+          </button>
         </div>
       </form>
     </section>
